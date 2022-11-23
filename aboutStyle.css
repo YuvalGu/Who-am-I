@@ -20,12 +20,12 @@
 
   h1 {
     font-family: 'Courier New', Courier, monospace;
-    color: blueviolet;
+    color: black;
     text-align: center;
     font-weight: bold;
   }
 
-  p {
+  a, p {
     font-family: 'Courier New', Courier, monospace;
     color: blue;
     text-align: center;
