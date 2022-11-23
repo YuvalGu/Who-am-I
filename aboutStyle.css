@@ -1,0 +1,38 @@
+ html {
+    background-image: url("img/backgroundAbout.jpg");
+    /* background-color: gray; */
+  }
+  
+  .column {
+    float: left;
+    width: 50%;
+    padding-top: 1%;
+  }
+
+  .row {
+    width: 100%;
+  }
+
+  img {
+    width: 100%;
+    border-radius: 120px;
+    position: relative;
+    /* margin-right: 250px; */
+  }
+
+  h1 {
+    font-family: 'Courier New', Courier, monospace;
+    color: blueviolet;
+    text-align: center;
+    font-weight: bold;
+  }
+
+  p {
+    font-family: 'Courier New', Courier, monospace;
+    color: blue;
+    text-align: center;
+    font-weight: bold;
+  }
+
+
+
